@@ -43,6 +43,7 @@ int main(){
     printf("Enter charcter to print value and ascii : ");
     scanf("%c" , &character);
     printf("character is %c and its ascii is %d" , character , character);
+    //=============================================================================
 
 
 
